@@ -1,0 +1,32 @@
+_repo: Austriaand-Costumes-of-the-People-of-that-Empire_42826
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42826-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shoberl, Frederic
+    aliases:
+    - Schoberl, Frederic
+    - Shoberl, F. (Frederic)
+    - Shoberl, Frederick
+    birthdate: 1775
+    deathdate: 1853
+    gutenberg_agent_id: '7482'
+    url: http://www.gutenberg.org/2009/agents/7482
+description: ''
+gutenberg_issued: '2013-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42826'
+  lccn: 03031659
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Austria -- Social life and customs'
+title: "Austria\r\ncontaining a Description of the Manners, Customs, Character and\
+  \ Costumes of the People of that Empire"
+url: http://www.gutenberg.org/ebooks/42826
